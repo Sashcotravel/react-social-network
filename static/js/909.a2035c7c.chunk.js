@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_les=self.webpackChunkmy_les||[]).push([[909],{4909:function(e,n,s){s.r(n),s.d(n,{default:function(){return l}});s(2791);var t="News_content__6AZol",u=s(6871),c=s(184),l=function(e){return!1===e.isAuth?(0,c.jsx)(u.Fg,{to:"/login"}):(0,c.jsx)("div",{className:t,children:(0,c.jsx)("h1",{children:"News"})})}}}]);
+//# sourceMappingURL=909.a2035c7c.chunk.js.map

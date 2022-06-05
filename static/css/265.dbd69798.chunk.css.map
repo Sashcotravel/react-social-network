@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/265.dbd69798.chunk.css","mappings":"AAAA,sBACI,wBAA2B,CAC3B,WACJ","sources":["components/Navbar/Music/Music.module.css"],"sourcesContent":[".content{\r\n    background-color: lightpink;\r\n    width: 300px;\r\n}"],"names":[],"sourceRoot":""}
