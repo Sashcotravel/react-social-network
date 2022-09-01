@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_les=self.webpackChunkmy_les||[]).push([[265],{3265:function(n,s,e){e.r(s),e.d(s,{default:function(){return i}});e(2791);var u="Music_content__vhO3F",t=e(6871),c=e(184),i=function(n){return!1===n.isAuth?(0,c.jsx)(t.Fg,{to:"/login"}):(0,c.jsx)("div",{className:u,children:"Music"})}}}]);
+//# sourceMappingURL=265.b3795a1f.chunk.js.map
