@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/909.f208b11d.chunk.css","mappings":"AAAA,qBACI,wBAA2B,CAC3B,WACJ","sources":["components/Navbar/News/News.module.css"],"sourcesContent":[".content{\r\n    background-color: lightblue;\r\n    width: 300px;\r\n}"],"names":[],"sourceRoot":""}
